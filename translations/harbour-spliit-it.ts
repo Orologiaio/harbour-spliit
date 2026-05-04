@@ -464,7 +464,7 @@ Unknown participant is owed money</extracomment>
     <message id="balances.description">
         <location filename="../qml/pages/BalancesPage.qml" line="99"/>
         <source>This is the amount that each participant paid or was paid for.</source>
-        <translation type="unfinished">Questo è l&apos;importo che ogni partecipante deve o che gli è dovuto.</translation>
+        <translation>Questo è l&apos;importo che ogni partecipante deve o che gli è dovuto.</translation>
     </message>
     <message id="balances.no_balances">
         <location filename="../qml/pages/BalancesPage.qml" line="105"/>
